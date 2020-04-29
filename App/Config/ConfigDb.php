@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'dbHost' => 'sql2.freemysqlhosting.net',
+    'dbHost' => '127.0.0.1',
     'dbPort' => '3306',
-    'dbName' => 'sql2335093',
-    'dbUser' =>  'sql2335093',
-    'dbPassword' => 'iK3*bK2*'
+    'dbName' => 'projetpoo',
+    'dbUser' =>  'root',
+    'dbPassword' => ''
 ];
